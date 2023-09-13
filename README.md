@@ -20,4 +20,4 @@ streamlit run tour.py
 
 更多信息可搜索微信公众号《数翼》查看：
 
-![shuyi-search.jpg](./assets/shuyi-search.jpg)
+![shuyi-search.jpg](./assets/shyi-qrcode.png)
